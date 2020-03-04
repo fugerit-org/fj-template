@@ -1,0 +1,37 @@
+{
+	"title" : "Simple template for multi module java maven project",
+	"name": "Fugerit Template",
+	"version" : "0.1.0",
+	"date" : "04/03/2020",
+	"organization" : {
+		"name" : "Fugerit Org",
+		"url" : "https://www.fugerit.org"
+	},
+	"author" : {
+		"name" : "Matteo a.k.a. Fugerit79",
+		"url" : "https://github.com/fugerit79"
+	},
+	"owner" : {
+		"name" : "Matteo a.k.a. Fugerit79",
+		"url" : "https://github.com/fugerit79"
+	},
+	"contributors" : [
+		{
+			"name" : "Daneel",
+			"url" : "https://github.com/daneeldeveloper"
+		}
+	],
+	"website" : {
+		"name" : "Template Git Repository",
+		"url" : "https://github.com/fugerit-org/fj-template"
+	},
+	"backlink" : {
+		"name" : "Fugerit Home",
+		"url" : "https://www.fugerit.org"
+	},
+	"module" : "Sol",
+	"id" : "F000",
+	"summary" : "Documentation for Fugerit Simple template for multi module java maven project",
+	"marking" : "",
+	"legalese" : ""
+}

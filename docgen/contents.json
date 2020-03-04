@@ -1,0 +1,12 @@
+[
+	{
+		"heading" : "Simple template for multi module java maven project",
+		"column" : 1,
+		"pages" : [
+			{
+				"title": "Template Overview",
+				"source": "index.md"
+			}
+		]
+	}
+]
