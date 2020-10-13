@@ -31,7 +31,7 @@
 	    <nexus-version>1.6.8</nexus-version>
 	    <mvn-gpg-version>1.6</mvn-gpg-version>
 	    <!-- testing dependancies -->
-	    <junit-version>4.13</junit-version>
+	    <junit-version>4.13.1</junit-version>
 	</properties>
 
 	<licenses>
